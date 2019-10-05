@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA3036A2-0333-4722-8580-65BD24D84EF2}</ProjectGuid>
+    <ProjectGuid>{4C9318F8-8026-410A-935D-6EA002E268F5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>RTS__Task_One_</RootNamespace>
-    <AssemblyName>RTS %28Task One%29</AssemblyName>
+    <RootNamespace>RealTimeStrategyGame</RootNamespace>
+    <AssemblyName>RealTimeStrategyGame</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -70,6 +70,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

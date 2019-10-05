@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RTS__Task_One_
+namespace RealTimeStrategyGame
 {
     static class Program
     {

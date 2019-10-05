@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RTS (Task One)")]
+[assembly: AssemblyTitle("RealTimeStrategyGame")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RTS (Task One)")]
+[assembly: AssemblyProduct("RealTimeStrategyGame")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("aa3036a2-0333-4722-8580-65bd24d84ef2")]
+[assembly: Guid("4c9318f8-8026-410a-935d-6ea002e268f5")]
 
 // Version information for an assembly consists of the following four values:
 //
